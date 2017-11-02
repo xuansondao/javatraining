@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="derbyLocale_pl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/derbyLocale_pl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
