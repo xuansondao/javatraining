@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="servlet-sample (3):war">
+    <output-path>$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/edu.java.web/servlet-sample/target</output-path>
+    <root id="archive" name="servlet-sample.war">
+      <element id="artifact" artifact-name="servlet-sample (3):war exploded" />
+    </root>
+  </artifact>
+</component>
